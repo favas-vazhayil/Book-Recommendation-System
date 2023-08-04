@@ -18,7 +18,7 @@ background-color: rgba(0,0,0,0);
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 st.title('Book Recommendation System')
-pt=pickle.load(open('pivot.pkl','rb'))
+#pt=pickle.load(open('pivot.pkl','rb'))
 finalbooks=pickle.load(open('finalbooks.pkl','rb'))
 similarity_score = cosine_similarity(pt)
 def recommend(book_name):
