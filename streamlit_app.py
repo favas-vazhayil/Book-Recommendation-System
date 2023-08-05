@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"]{
-background-image: url("https://plus.unsplash.com/premium_photo-1677187301439-bc2201360443?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=665&q=80");
+background-image: url("https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1658&q=80");
 background-size: cover;
 }
 [data-testid="stHeader"]{
